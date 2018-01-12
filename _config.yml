@@ -1,6 +1,6 @@
 # Site settings
 title: yoking Blog
-SEOTitle: 王程的博客 | BY Blog
+SEOTitle: 王程的博客 | yoking Blog
 header-img: img/post-bg-desk.jpg
 email: yokingwc@gmail.com
 description: "love only, learn more."
@@ -98,11 +98,5 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    }
+   
 ]
