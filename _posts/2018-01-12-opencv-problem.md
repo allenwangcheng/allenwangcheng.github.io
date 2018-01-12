@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      opencv              安装问题解决 # 标题 
+title:      opencv安装问题解决 # 标题 
 subtitle:   make问题 #副标题
 date:       2018-01-12              # 时间
 author:     wangcheng                      # 作者
