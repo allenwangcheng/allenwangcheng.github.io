@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      My First Post               # 标题 
-subtitle:   Hello World, Hello Blog #副标题
+title:      opencv              安装问题解决 # 标题 
+subtitle:   make问题 #副标题
 date:       2018-01-12              # 时间
 author:     wangcheng                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
