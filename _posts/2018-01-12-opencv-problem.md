@@ -25,7 +25,7 @@ make: *** [.build_release/examples/cpp_classification/classification.bin] Error 
 ####解决方法：
 '''add the opencv_imgcodecs to the MakeFile
 It could be that you are using OpenCV version 3. If yes just uncomment the following line in your Makefile.config:
-# OPENCV_VERSION := 3
+OPENCV_VERSION := 3
 '''
 
 作者：wangcheng
